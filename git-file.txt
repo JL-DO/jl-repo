@@ -1,1 +1,2 @@
 Text file test for git merge.
+Text file JL test.
